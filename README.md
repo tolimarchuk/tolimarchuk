@@ -6,4 +6,4 @@ building tools that extend what ai agents can do
 
 🐦 **[bird-dm](https://github.com/tolimarchuk/bird-dm)** — let your ai agent check its x/twitter dm inbox
 
-🐻 [x](https://x.com/tolibear_)
+🐻 [x](https://x.com/tolimarchuk)
